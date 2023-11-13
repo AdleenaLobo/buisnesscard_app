@@ -1,0 +1,9 @@
+<!DOCTYPE resources [
+    <!ENTITY at "@">
+    ]>
+<resources>
+    <string name="app_name">buisnesscard_app</string>
+    <string name="contact_no">+919930366520</string>
+    <string name="sharing">&at;AndriodDev</string>
+    <string name="email_id">adleena@andriod.com</string>
+</resources>
