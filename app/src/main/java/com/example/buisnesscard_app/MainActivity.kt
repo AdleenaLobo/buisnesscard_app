@@ -55,9 +55,10 @@ fun AboutInfo(info: String, myicon: ImageVector, description: String, modifier: 
     ){
 
         Icon(
-            myicon,
+             myicon,
             contentDescription = description,
-            modifier = Modifier
+            modifier = Modifier,
+            tint = Color.Green
 
         )
 
